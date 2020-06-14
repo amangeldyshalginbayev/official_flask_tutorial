@@ -137,24 +137,3 @@ def login_required(view):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
